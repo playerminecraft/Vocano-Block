@@ -1,0 +1,20 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2026-10-12 22:22:53 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:root": {
+    "criteria": {
+      "crafting_table": "2026-10-12 22:22:53 +0700"
+    },
+    "done": true
+  },
+  "vanillafoodpantry:vanillafoodpantry/allhandsondeck": {
+    "criteria": {
+      "kingme_decker": "2026-10-12 22:23:41 +0700"
+    },
+    "done": false
+  }
+}

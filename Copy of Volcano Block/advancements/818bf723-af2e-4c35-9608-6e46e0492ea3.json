@@ -1,0 +1,482 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-10-13 00:01:26 +0700"
+    },
+    "done": true
+  },
+  "uniquecrops:main/seed_pickup": {
+    "criteria": {
+      "seed": "2026-10-12 22:28:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-10-13 00:01:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2026-10-13 00:01:26 +0700"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2026-10-12 22:25:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-10-12 22:28:20 +0700"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2026-10-12 22:34:50 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "uniquecrops:main/craft_collis": {
+    "criteria": {
+      "seed": "2026-10-13 00:43:16 +0700"
+    },
+    "done": true
+  },
+  "uniquecrops:main/guidebook_craft": {
+    "criteria": {
+      "seed": "2026-10-12 22:30:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-10-12 22:31:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2026-10-12 22:31:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-10-12 22:36:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-10-12 22:29:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-10-12 23:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-10-12 22:29:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-10-12 22:28:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-10-12 22:30:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-10-12 22:28:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-10-12 23:32:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-10-12 22:28:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2026-10-12 23:10:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-10-12 22:28:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2026-10-12 22:28:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2026-10-12 23:10:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2026-10-12 23:27:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-10-13 00:22:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-10-12 22:33:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-10-13 00:22:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2026-10-12 23:10:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2026-10-12 22:28:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2026-10-12 23:10:35 +0700"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2026-10-12 22:26:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2026-10-12 23:10:35 +0700"
+    },
+    "done": true
+  },
+  "prodigytech:main/meat_patty": {
+    "criteria": {
+      "iron": "2026-10-12 22:29:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-10-12 22:28:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-10-12 22:29:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-10-12 22:30:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2026-10-12 23:10:35 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2026-10-12 23:53:26 +0700"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2026-10-12 22:34:50 +0700"
+    },
+    "done": true
+  },
+  "uniquecrops:main/root": {
+    "criteria": {
+      "seed": "2026-10-12 22:28:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2026-10-12 23:53:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2026-10-13 00:53:21 +0700"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2026-10-12 22:25:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2026-10-13 00:22:10 +0700"
+    },
+    "done": true
+  },
+  "vanillafoodpantry:vanillafoodpantry/root": {
+    "criteria": {
+      "consumed_item": "2026-10-12 23:32:56 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:root": {
+    "criteria": {
+      "crafting_table": "2026-10-12 22:25:13 +0700"
+    },
+    "done": true
+  },
+  "vanillafoodpantry:vanillafoodpantry/grillmeister": {
+    "criteria": {
+      "meat_kebab": "2026-10-12 22:29:38 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2026-10-12 22:30:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "vanillafoodpantry:vanillafoodpantry/allhandsondeck": {
+    "criteria": {
+      "kingme_decker": "2026-10-12 22:25:37 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-10-13 00:01:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2026-10-12 22:30:10 +0700"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2026-10-12 22:25:47 +0700"
+    },
+    "done": true
+  },
+  "uniquecrops:main/craft_cobblonia": {
+    "criteria": {
+      "seed": "2026-10-12 23:18:00 +0700"
+    },
+    "done": true
+  },
+  "uniquecrops:main/artisia_craft": {
+    "criteria": {
+      "seed": "2026-10-12 22:30:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-10-12 23:27:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-10-12 22:31:05 +0700"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2026-10-12 22:32:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-10-13 00:22:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "uniquecrops:main/craft_pixelsius": {
+    "criteria": {
+      "seed": "2026-10-13 00:42:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2026-10-12 22:33:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  }
+}
