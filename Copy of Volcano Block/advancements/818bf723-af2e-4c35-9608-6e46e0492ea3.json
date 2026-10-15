@@ -83,9 +83,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2026-10-12 22:36:54 +0700"
+    },
+    "done": true
+  },
+  "prodigytech:main/rotary_grinder": {
+    "criteria": {
+      "iron": "2026-10-15 07:06:13 +0700"
     },
     "done": true
   },
@@ -137,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2026-10-12 22:29:58 +0700"
@@ -158,6 +176,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2026-10-12 22:30:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
@@ -209,6 +233,12 @@
     },
     "done": true
   },
+  "prodigytech:main/root": {
+    "criteria": {
+      "crafting_table": "2026-10-14 12:12:18 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2026-10-12 23:27:13 +0700"
@@ -218,6 +248,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-10-13 11:48:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
@@ -233,9 +269,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2026-10-15 07:29:08 +0700"
+    },
+    "done": true
+  },
+  "vanillafoodpantry:vanillafoodpantry/getthemeats": {
+    "criteria": {
+      "axe_craftable": "2026-10-15 07:29:08 +0700"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2026-10-12 22:28:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
@@ -263,6 +317,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2026-10-15 07:29:08 +0700"
+    },
+    "done": true
+  },
+  "prodigytech:recipes/sawdust": {
+    "criteria": {
+      "has_material": "2026-10-15 07:16:40 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2026-10-12 22:28:20 +0700"
@@ -278,6 +344,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
@@ -317,6 +389,16 @@
     },
     "done": true
   },
+  "prodigytech:main/aeroheater": {
+    "criteria": {
+      "energion": "2026-10-14 12:12:18 +0700",
+      "tartaric": "2026-10-14 12:12:18 +0700",
+      "magmatic": "2026-10-14 12:12:18 +0700",
+      "solid_fuel": "2026-10-14 12:12:18 +0700",
+      "capacitor": "2026-10-14 12:12:18 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2026-10-13 12:25:42 +0700"
@@ -326,6 +408,12 @@
   "uniquecrops:main/root": {
     "criteria": {
       "seed": "2026-10-12 22:28:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
@@ -383,6 +471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2026-10-15 07:09:59 +0700"
+    },
+    "done": true
+  },
   "uniquecrops:main/craft_instabilis": {
     "criteria": {
       "seed": "2026-10-13 12:18:15 +0700"
@@ -392,6 +486,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-10-13 11:48:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
@@ -563,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-10-14 12:12:19 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-13 11:48:53 +0700"
@@ -599,9 +705,21 @@
     },
     "done": true
   },
+  "vanillafoodpantry:recipes/tools/flint_butcher_axe": {
+    "criteria": {
+      "or_has_flint": "2026-10-15 07:29:08 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2026-10-12 23:21:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
@@ -620,6 +738,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2026-10-12 22:26:12 +0700"
+    },
+    "done": true
+  },
+  "soulus:bark": {
+    "criteria": {
+      "craft": "2026-10-14 12:32:03 +0700"
     },
     "done": true
   },
@@ -815,6 +939,12 @@
     },
     "done": true
   },
+  "prodigytech:main/explosion_furnace": {
+    "criteria": {
+      "iron": "2026-10-14 12:12:18 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-10-13 11:48:53 +0700"
@@ -860,6 +990,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2026-10-13 11:48:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2026-10-15 07:31:50 +0700"
     },
     "done": true
   },
